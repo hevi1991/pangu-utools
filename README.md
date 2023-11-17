@@ -10,6 +10,10 @@ npm install
 npm run build
 ```
 
+## 效果
+
+![效果](./doc/image01.png)
+
 ## 引用
 
 - https://github.com/vinta/pangu.js
